@@ -2,6 +2,6 @@
   "private": true,
   "name": "playlistjs-sample",
   "dependencies": {
-    "playlistjs-types": "^0.0.1"
+    "playlistjs-types": "^0.0.3"
   }
 }
